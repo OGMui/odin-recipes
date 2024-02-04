@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-Recipes
 
 ## Overview
 This repository serves as the first HTML project within The Odin Project's foundations course. The Objective is to create a simple recipe website utilizing the fundamental tools covered thus far in the course, including:
